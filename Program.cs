@@ -1,17 +1,42 @@
-var builder = WebApplication.CreateBuilder(args);
+using AutoMapper;
+using WebApplication1.Contexto;
+using WebApplication1.Repositorios;
+using WebApplication1.Repositorios.Interfaces;
+using WebApplication1.Serviços;
+using WebApplication1.Serviços.Interfaces;
 
-// Add services to the container.
+public class program
+{
 
-builder.Services.AddControllers();
+    public static void Main(string[] args)
+    {
+        var builder = WebApplication.CreateBuilder(args);
 
-var app = builder.Build();
+        // Add services to the container.
 
-// Configure the HTTP request pipeline.
+        builder.Services.AddControllers();
+        builder.Services.AddEndpointsApiExplorer();
+        builder.Services.AddSwaggerGen();
 
-app.UseHttpsRedirection();
+        builder.Services.AddScoped<IEscola, EscolaRepositori>();
+        builder.Services.AddDbContext<SenaiContext>();
+        builder.Services.AddScoped<IEscolaServiçe, EscolaServiçe>();
 
-app.UseAuthorization();
+        MapperConfiguration mapperConfiguration = new(mapperConfiguration => { mapperConfiguration.AddMaps(new[] { "WebApplication1" }); });
+        builder.Services.AddSingleton(mapperConfiguration.CreateMapper());
 
-app.MapControllers();
+        var app = builder.Build();
+        app.UseSwagger();
+        app.UseSwaggerUI();
 
-app.Run();
+        // Configure the HTTP request pipeline.
+
+        app.UseHttpsRedirection();
+
+        app.UseAuthorization();
+
+        app.MapControllers();
+
+        app.Run();
+    }
+}
