@@ -1,4 +1,5 @@
-﻿using WebApplication1.Entidades;
+﻿using AutoMapper;
+using WebApplication1.Entidades;
 
 namespace WebApplication1.Repositorios.Interfaces
 {
@@ -6,5 +7,8 @@ namespace WebApplication1.Repositorios.Interfaces
     {
         List<Escola>PegarTodos();
         void Salvar(Escola escola);
+
+        bool Remover(long id);
+        Escola ObterPorId(long id);
     }
 }

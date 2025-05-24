@@ -3,24 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\controllers\\escolacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:controllers\\escolacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\repositorios\\interfaces\\endere\u00E7orepositori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:repositorios\\interfaces\\endere\u00E7orepositori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\dtos\\endere\u00E7odto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:dtos\\endere\u00E7odto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\controllers\\endere\u00E7ocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:controllers\\endere\u00E7ocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\servi\u00E7os\\escolaservi\u00E7e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:servi\u00E7os\\escolaservi\u00E7e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\mappers\\endere\u00E7omapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:mappers\\endere\u00E7omapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\servi\u00E7os\\interfaces\\endere\u00E7oservi\u00E7e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:servi\u00E7os\\interfaces\\endere\u00E7oservi\u00E7e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\servi\u00E7os\\interfaces\\iendere\u00E7oservi\u00E7e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:servi\u00E7os\\interfaces\\iendere\u00E7oservi\u00E7e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\servi\u00E7os\\interfaces\\iescolaservi\u00E7e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:servi\u00E7os\\interfaces\\iescolaservi\u00E7e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\repositorios\\interfaces\\iendere\u00E7orepositori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:repositorios\\interfaces\\iendere\u00E7orepositori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\mappers\\escolamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:mappers\\escolamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\controllers\\escolacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:controllers\\escolacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\repositorios\\interfaces\\iescola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:repositorios\\interfaces\\iescola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\dtos\\escoladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:dtos\\escoladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\entidades\\endere\u00E7o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:entidades\\endere\u00E7o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\contexto\\senaicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:contexto\\senaicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\repositorios\\escolarepositori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:repositorios\\escolarepositori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\servi\u00E7os\\escolaservi\u00E7e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:servi\u00E7os\\escolaservi\u00E7e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\escolaedi\u00E7aodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:escolaedi\u00E7aodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\entidades\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:entidades\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\entidades\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:entidades\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\entidades\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,30 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\entidades\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:entidades\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\entidades\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:entidades\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\contexto\\senaicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:contexto\\senaicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\mappers\\escolamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:mappers\\escolamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\dtos\\escoladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:dtos\\escoladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\entidades\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:entidades\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\migrations\\20250510142534_meu commit inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,10 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\entidades\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:entidades\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|c:\\users\\joao-alvari_silva\\source\\repos\\senaiapi\\entidades\\endere\u00E7o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BC40ECF-3FAC-4370-BAA2-01A2ED2FEA75}|WebApplication1.csproj|solutionrelative:entidades\\endere\u00E7o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,20 +126,150 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Endere\u00E7oServi\u00E7e.cs",
+              "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Servi\u00E7os\\Interfaces\\Endere\u00E7oServi\u00E7e.cs",
+              "RelativeDocumentMoniker": "Servi\u00E7os\\Interfaces\\Endere\u00E7oServi\u00E7e.cs",
+              "ToolTip": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Servi\u00E7os\\Interfaces\\Endere\u00E7oServi\u00E7e.cs",
+              "RelativeToolTip": "Servi\u00E7os\\Interfaces\\Endere\u00E7oServi\u00E7e.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:34:09.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEndere\u00E7oServi\u00E7e.cs",
+              "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Servi\u00E7os\\Interfaces\\IEndere\u00E7oServi\u00E7e.cs",
+              "RelativeDocumentMoniker": "Servi\u00E7os\\Interfaces\\IEndere\u00E7oServi\u00E7e.cs",
+              "ToolTip": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Servi\u00E7os\\Interfaces\\IEndere\u00E7oServi\u00E7e.cs",
+              "RelativeToolTip": "Servi\u00E7os\\Interfaces\\IEndere\u00E7oServi\u00E7e.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:33:50.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Endere\u00E7oRepositori.cs",
+              "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Repositorios\\Interfaces\\Endere\u00E7oRepositori.cs",
+              "RelativeDocumentMoniker": "Repositorios\\Interfaces\\Endere\u00E7oRepositori.cs",
+              "ToolTip": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Repositorios\\Interfaces\\Endere\u00E7oRepositori.cs",
+              "RelativeToolTip": "Repositorios\\Interfaces\\Endere\u00E7oRepositori.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:33:21.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEndere\u00E7oRepositori.cs",
+              "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Repositorios\\Interfaces\\IEndere\u00E7oRepositori.cs",
+              "RelativeDocumentMoniker": "Repositorios\\Interfaces\\IEndere\u00E7oRepositori.cs",
+              "ToolTip": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Repositorios\\Interfaces\\IEndere\u00E7oRepositori.cs",
+              "RelativeToolTip": "Repositorios\\Interfaces\\IEndere\u00E7oRepositori.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:33:03.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Endere\u00E7oMapper.cs",
+              "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Mappers\\Endere\u00E7oMapper.cs",
+              "RelativeDocumentMoniker": "Mappers\\Endere\u00E7oMapper.cs",
+              "ToolTip": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Mappers\\Endere\u00E7oMapper.cs",
+              "RelativeToolTip": "Mappers\\Endere\u00E7oMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:31:46.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Endere\u00E7oDTo.cs",
+              "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\DTos\\Endere\u00E7oDTo.cs",
+              "RelativeDocumentMoniker": "DTos\\Endere\u00E7oDTo.cs",
+              "ToolTip": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\DTos\\Endere\u00E7oDTo.cs",
+              "RelativeToolTip": "DTos\\Endere\u00E7oDTo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:31:20.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Endere\u00E7oController.cs",
+              "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Controllers\\Endere\u00E7oController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Endere\u00E7oController.cs",
+              "ToolTip": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Controllers\\Endere\u00E7oController.cs",
+              "RelativeToolTip": "Controllers\\Endere\u00E7oController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:30:49.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EscolaEdi\u00E7aoDTo.cs",
+              "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\EscolaEdi\u00E7aoDTo.cs",
+              "RelativeDocumentMoniker": "EscolaEdi\u00E7aoDTo.cs",
+              "ToolTip": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\EscolaEdi\u00E7aoDTo.cs",
+              "RelativeToolTip": "EscolaEdi\u00E7aoDTo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:12:52.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEscolaServi\u00E7e.cs",
+              "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Servi\u00E7os\\Interfaces\\IEscolaServi\u00E7e.cs",
+              "RelativeDocumentMoniker": "Servi\u00E7os\\Interfaces\\IEscolaServi\u00E7e.cs",
+              "ToolTip": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Servi\u00E7os\\Interfaces\\IEscolaServi\u00E7e.cs",
+              "RelativeToolTip": "Servi\u00E7os\\Interfaces\\IEscolaServi\u00E7e.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:33:20.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEscola.cs",
+              "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Repositorios\\Interfaces\\IEscola.cs",
+              "RelativeDocumentMoniker": "Repositorios\\Interfaces\\IEscola.cs",
+              "ToolTip": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Repositorios\\Interfaces\\IEscola.cs",
+              "RelativeToolTip": "Repositorios\\Interfaces\\IEscola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:32:17.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
               "Title": "EscolaMapper.cs",
               "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Mappers\\EscolaMapper.cs",
               "RelativeDocumentMoniker": "Mappers\\EscolaMapper.cs",
               "ToolTip": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Mappers\\EscolaMapper.cs",
               "RelativeToolTip": "Mappers\\EscolaMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T13:23:52.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "EscolaDTo.cs",
               "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\DTos\\EscolaDTo.cs",
               "RelativeDocumentMoniker": "DTos\\EscolaDTo.cs",
@@ -112,59 +282,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "EscolaController.cs",
               "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Controllers\\EscolaController.cs",
               "RelativeDocumentMoniker": "Controllers\\EscolaController.cs",
               "ToolTip": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Controllers\\EscolaController.cs",
               "RelativeToolTip": "Controllers\\EscolaController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAMwCQAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T11:42:10.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "EscolaRepositori.cs",
               "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Repositorios\\EscolaRepositori.cs",
               "RelativeDocumentMoniker": "Repositorios\\EscolaRepositori.cs",
               "ToolTip": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Repositorios\\EscolaRepositori.cs",
               "RelativeToolTip": "Repositorios\\EscolaRepositori.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T11:41:23.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "EscolaServi\u00E7e.cs",
               "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Servi\u00E7os\\EscolaServi\u00E7e.cs",
               "RelativeDocumentMoniker": "Servi\u00E7os\\EscolaServi\u00E7e.cs",
               "ToolTip": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Servi\u00E7os\\EscolaServi\u00E7e.cs",
               "RelativeToolTip": "Servi\u00E7os\\EscolaServi\u00E7e.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T11:41:02.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WebApplication1",
+              "DocumentIndex": 4,
+              "Title": "WebApplication1.csproj",
               "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\WebApplication1.csproj",
               "RelativeDocumentMoniker": "WebApplication1.csproj",
               "ToolTip": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\WebApplication1.csproj",
               "RelativeToolTip": "WebApplication1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-17T11:32:07.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 21,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -172,12 +342,11 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-17T11:25:15.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T11:25:15.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "20250510142534_Meu commit inicial.cs",
               "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Migrations\\20250510142534_Meu commit inicial.cs",
               "RelativeDocumentMoniker": "Migrations\\20250510142534_Meu commit inicial.cs",
@@ -185,38 +354,37 @@
               "RelativeToolTip": "Migrations\\20250510142534_Meu commit inicial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T14:25:34.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T14:25:34.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "SenaiContext.cs",
               "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Contexto\\SenaiContext.cs",
               "RelativeDocumentMoniker": "Contexto\\SenaiContext.cs",
               "ToolTip": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Contexto\\SenaiContext.cs",
               "RelativeToolTip": "Contexto\\SenaiContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T14:00:36.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABkAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T13:02:47.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "Escola.cs",
               "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Entidades\\Escola.cs",
               "RelativeDocumentMoniker": "Entidades\\Escola.cs",
@@ -229,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 23,
               "Title": "Professor.cs",
               "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Entidades\\Professor.cs",
               "RelativeDocumentMoniker": "Entidades\\Professor.cs",
@@ -237,12 +405,11 @@
               "RelativeToolTip": "Entidades\\Professor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T13:11:20.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T13:11:20.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 22,
               "Title": "Classe.cs",
               "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Entidades\\Classe.cs",
               "RelativeDocumentMoniker": "Entidades\\Classe.cs",
@@ -250,25 +417,24 @@
               "RelativeToolTip": "Entidades\\Classe.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T13:10:05.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T13:10:05.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "Endere\u00E7o.cs",
               "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Entidades\\Endere\u00E7o.cs",
               "RelativeDocumentMoniker": "Entidades\\Endere\u00E7o.cs",
               "ToolTip": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Entidades\\Endere\u00E7o.cs",
               "RelativeToolTip": "Entidades\\Endere\u00E7o.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T13:10:19.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "Aluno.cs",
               "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Entidades\\Aluno.cs",
               "RelativeDocumentMoniker": "Entidades\\Aluno.cs",
@@ -276,12 +442,11 @@
               "RelativeToolTip": "Entidades\\Aluno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T13:09:53.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T13:09:53.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "SerieEnum.cs",
               "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Entidades\\SerieEnum.cs",
               "RelativeDocumentMoniker": "Entidades\\SerieEnum.cs",
@@ -289,25 +454,24 @@
               "RelativeToolTip": "Entidades\\SerieEnum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T13:16:55.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T13:16:55.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Entidades\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Entidades\\BaseEntity.cs",
               "ToolTip": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\Entidades\\BaseEntity.cs",
               "RelativeToolTip": "Entidades\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T13:24:13.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\joao-alvari_silva\\source\\repos\\SenaiApi\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
@@ -315,8 +479,7 @@
               "RelativeToolTip": "WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T13:03:13.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T13:03:13.591Z"
             }
           ]
         }

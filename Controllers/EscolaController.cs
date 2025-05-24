@@ -37,5 +37,23 @@ namespace WebApplication1.Controllers
             var escolas = _escolaService.PegarTodos();
             return Ok(escolas);
         }
+        [HttpDelete]
+        public IActionResult Remover(long id)
+        {
+            _escolaService.Remover(id);
+            return Ok();
+        }
+        [HttpPost]
+        [Route("Editar")]
+        public IActionResult Editar([FromBody] EscolaEdiçaoDTo escola)
+        {
+            if (escola == null)
+            {
+                return BadRequest("Escola nao pode ser nula");
+            }
+            _escolaService.Editar(escola);
+            return Ok();
+        }
+        
     }
 }

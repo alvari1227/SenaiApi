@@ -7,5 +7,8 @@ namespace WebApplication1.Serviços.Interfaces
     {
         public List<EscolaDTo> PegarTodos();
         void Salvar(EscolaDTo escola);
+
+       bool Remover(long id);
+        void Editar(EscolaEdiçaoDTo escola);
     }
 }

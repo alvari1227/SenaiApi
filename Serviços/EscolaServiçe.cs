@@ -32,5 +32,18 @@ namespace WebApplication1.Serviços
             return _mapper.Map<List<EscolaDTo>>(escolas);
         }
 
+        public bool Remover(long id)
+        {
+            return _escolaRepository.Remover(id);
+        }
+        
+        public void Editar(EscolaEdiçaoDTo model)
+        {
+            var escola = _escolaRepository.ObterPorId(model.Id);
+            _mapper.Map(model, escola);
+
+            _escolaRepository.Salvar(escola);
+        }
+        
     }
 }

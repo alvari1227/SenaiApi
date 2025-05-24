@@ -9,6 +9,7 @@ namespace WebApplication1.Mappers
         public EscolaMapper() {
             CreateMap<EscolaDTo, Escola>().ReverseMap();
 
+            CreateMap<EscolaEdiçaoDTo, Escola>().ReverseMap();
         }
     }
 }
