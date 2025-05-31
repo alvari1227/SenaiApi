@@ -7,12 +7,12 @@ using WebApplication1.Serviços.Interfaces;
 
 namespace WebApplication1.Repositorios
 {
-    public class EscolaRepositori : IEscola
+    public class EscolaRepositori : BaseRepositori<Escola>, IEscola
     {
         private readonly SenaiContext _context;
 
 
-        public EscolaRepositori(SenaiContext context)
+        public EscolaRepositori(SenaiContext context) : base(context)
         {
             _context = context;
         }
@@ -54,7 +54,7 @@ namespace WebApplication1.Repositorios
 
         public List<Escola> ObterTodos()
         {
-            return _context.Escola.ToList();
+            return base.ObterTodos().ToList();
         }
 
     }

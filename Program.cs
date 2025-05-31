@@ -18,6 +18,8 @@ public class program
         builder.Services.AddEndpointsApiExplorer();
         builder.Services.AddSwaggerGen();
 
+        builder.Services.AddScoped<IProfessorServiçe, ProfessorServiçe>();
+        builder.Services.AddScoped<IProfessorRepositori, ProfessorRepositori>();
         builder.Services.AddScoped<IEndereçoRepositori, EndereçoRepositori>();
         builder.Services.AddScoped<IEndereçoServiçe, EndereçoServiçe>();
         builder.Services.AddScoped<IEscola, EscolaRepositori>();
