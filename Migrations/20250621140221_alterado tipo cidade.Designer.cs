@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 using WebApplication1.Contexto;
@@ -11,9 +12,11 @@ using WebApplication1.Contexto;
 namespace WebApplication1.Migrations
 {
     [DbContext(typeof(SenaiContext))]
-    partial class SenaiContextModelSnapshot : ModelSnapshot
+    [Migration("20250621140221_alterado tipo cidade")]
+    partial class alteradotipocidade
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

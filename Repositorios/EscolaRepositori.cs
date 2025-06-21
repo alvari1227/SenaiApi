@@ -26,10 +26,10 @@ namespace WebApplication1.Repositorios
         public void Salvar(Escola escola)
 
         {
-            if (escola.Id == 0)
-                _context.Escola.Add(escola);
-            else
+            if (escola.Id > 0)
                 _context.Escola.Update(escola);
+            else
+                _context.Escola.Add(escola);
 
             _context.SaveChanges();
 

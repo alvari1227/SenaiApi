@@ -120,35 +120,6 @@
           }
         }
       },
-      "post": {
-        "tags": [
-          "Escola"
-        ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/EscolaDTo"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/EscolaDTo"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/EscolaDTo"
-              }
-            }
-          }
-        },
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      },
       "delete": {
         "tags": [
           "Escola"
@@ -168,6 +139,35 @@
             "description": "OK"
           }
         }
+      },
+      "post": {
+        "tags": [
+          "Escola"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EscolaDTo"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EscolaDTo"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/EscolaDTo"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
       }
     },
     "/Escola/buscar-todos": {
@@ -182,30 +182,21 @@
         }
       }
     },
-    "/Escola/Editar": {
-      "post": {
+    "/Escola/PegarPorId": {
+      "get": {
         "tags": [
           "Escola"
         ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/EscolaEdiçaoDTo"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/EscolaEdiçaoDTo"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/EscolaEdiçaoDTo"
-              }
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int64"
             }
           }
-        },
+        ],
         "responses": {
           "200": {
             "description": "OK"
@@ -399,16 +390,6 @@
       "EscolaDTo": {
         "type": "object",
         "properties": {
-          "nome": {
-            "type": "string",
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "EscolaEdiçaoDTo": {
-        "type": "object",
-        "properties": {
           "id": {
             "type": "integer",
             "format": "int64"
@@ -416,6 +397,9 @@
           "nome": {
             "type": "string",
             "nullable": true
+          },
+          "endereço": {
+            "$ref": "#/components/schemas/EndereçoDTo"
           }
         },
         "additionalProperties": false

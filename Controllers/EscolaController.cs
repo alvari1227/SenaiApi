@@ -24,13 +24,6 @@ namespace WebApplication1.Controllers
             return Ok();
         }
 
-        [HttpPost]
-        public IActionResult Adicionar( EscolaDTo escola)
-        {
-
-            _escolaService.Salvar(escola);
-            return Ok();
-        }
         [HttpGet("buscar-todos")]
         public IActionResult Buscar()
         {
@@ -43,16 +36,21 @@ namespace WebApplication1.Controllers
             _escolaService.Remover(id);
             return Ok();
         }
+        
+        [HttpGet("PegarPorId")]
+        public IActionResult PegarPorId(long id)
+        {
+            var escolas = _escolaService.ObterPorId(id);
+            return Ok(escolas);
+        }
         [HttpPost]
-        [Route("Editar")]
-        public IActionResult Editar([FromBody] EscolaEdiçaoDTo escola)
+        public IActionResult Salvar([FromBody] EscolaDTo escola)
         {
             if (escola == null)
-            {
                 return BadRequest("Escola nao pode ser nula");
-            }
-            _escolaService.Editar(escola);
-            return Ok();
+                _escolaService.Salvar(escola);
+                return Ok();
+            
         }
         
     }

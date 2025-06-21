@@ -10,5 +10,7 @@ namespace WebApplication1.Serviços.Interfaces
 
        bool Remover(long id);
         void Editar(EscolaEdiçaoDTo escola);
+
+        public EscolaDTo ObterPorId(long id);
     }
 }

@@ -46,7 +46,7 @@ namespace WebApplication1.Repositorios.Interfaces
 
         public Endereço ObterPorId(long id)
         {
-            return _context.Endereço.FirstOrDefault(e => e.Id == id);
+            return _context.Endereço.Include(c => c.Escola).FirstOrDefault(e => e.Id == id);
         }
 
         public List<Endereço> ObterTodos()

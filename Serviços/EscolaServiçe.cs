@@ -44,6 +44,11 @@ namespace WebApplication1.Serviços
 
             _escolaRepository.Salvar(escola);
         }
+        public EscolaDTo ObterPorId(long id)
+        {
+            var escola = _escolaRepository.ObterPorId(id);
+            return _mapper.Map<EscolaDTo>(escola);
+        }
         
     }
 }
